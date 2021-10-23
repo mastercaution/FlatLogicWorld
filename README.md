@@ -1,12 +1,19 @@
+<p align="center">
+  <a href="https://github.com/mastercaution/FlatLogicWorld/releases">
+    <img alt="GitHub release  (latest by date)" src="https://img.shields.io/github/v/release/mastercaution/FlatLogicWorld?logo=github&style=flat-square" /></a> 
+  <a href="https://logicworld.net/" >
+    <img alt="Logic World Version" src="https://img.shields.io/badge/Logic%20World-v0.90-informational?style=flat-square" /></a>
+</p>
+
+
 # Flat Logic World
 Give Logic World a fresh new look with Material Design colors! 
 
 > A flat UI perfectly matching the flat earth in Logic World :stuck_out_tongue_closed_eyes:
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/16451370/138568334-a33af1e4-1d8e-402a-b0d1-d2ae1511e6a8.png" />
+  <img alt="Main Menu Showcase" src="https://user-images.githubusercontent.com/16451370/138568334-a33af1e4-1d8e-402a-b0d1-d2ae1511e6a8.png" />
 </p>
-
 
 
 ## Installation
@@ -27,11 +34,11 @@ Mod support in Logic World is not finished yet but the mod directory can already
 
 ## Pictures
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/16451370/138568434-702bd290-0a4a-4c81-ace1-5cf7264599fd.gif" />
+  <img alt="Settings Presentation" src="https://user-images.githubusercontent.com/16451370/138568434-702bd290-0a4a-4c81-ace1-5cf7264599fd.gif" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/16451370/138568439-1233439a-7b93-4853-a55a-af2e60d1d299.gif" />
+  <img alt="Component Selection Presentation" src="https://user-images.githubusercontent.com/16451370/138568439-1233439a-7b93-4853-a55a-af2e60d1d299.gif" />
 </p>
 
 
