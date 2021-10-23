@@ -39,9 +39,9 @@ TertiaryPressed         : 000a12
 #   - Selected hotbar item border
 #   - Tool tip background
 #   - Scroll bar (in component options menu)
-Quaternary              : 546e7a
-QuaternaryHovered       : 819ca9
-QuaternaryPressed       : 29434e
+Quaternary              : 78909c
+QuaternaryHovered       : a7c0cd
+QuaternaryPressed       : 4b636e
 
 # Used for:
 #   - Button background
