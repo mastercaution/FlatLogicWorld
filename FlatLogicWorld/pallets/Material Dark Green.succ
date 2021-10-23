@@ -1,0 +1,85 @@
+# Dark Material Design theme with a green accent.
+# Autor: Mouse Hat Games, edited by ChrisP
+
+
+# Used for:
+#   - Screen (application) background
+#   - Scroll bar (in component selection menu)
+# NOTE: "PrimaryHovered" and "PrimaryPressed" used on inactive tab item headers
+# WARNING: On hovered settings boxes, "Primary" is mixing with "Accent" (slightly
+#   transparent "Accent" is added)!
+Primary                 : 263238
+PrimaryHovered          : 4f5b62
+PrimaryPressed          : 000a12
+
+# Used for:
+#   - Panels
+#   - Card background
+#   - Scroll bar (in settings menu)
+# NOTE: "SecondaryHovered" and "SecondaryPressed" only used on active tab item header
+Secondary               : 212121
+SecondaryHovered        : 484848
+SecondaryPressed        : 181818
+
+# Used for:
+#   - Borders
+#   - Scroll bar background (all)
+#   - Slider progress background
+#   - Hotbar item background
+#   - Hotbar item border (not selected)
+# NOTE: "TertiaryHovered" on "TertiaryPressed" never used
+Tertiary                : 263238
+TertiaryHovered         : 4f5b62
+TertiaryPressed         : 000a12
+
+# Used for:
+#   - Deactivated switch background and handle
+#   - Most key assignment box backgrounds (controls)
+#   - World selection list item background
+#   - Selected hotbar item border
+#   - Tool tip background
+#   - Scroll bar (in component options menu)
+Quaternary              : 78909c
+QuaternaryHovered       : a7c0cd
+QuaternaryPressed       : 4b636e
+
+# Used for:
+#   - Button background
+#   - Handles (switch, slider, ...)
+#   - Hovered settings list box
+#   - Some key assignment box backgrounds (controls)
+# WARNING: On hovered settings boxes, "Primary" is mixing with "Accent" (slightly
+#   transparent "Accent" is added)!
+# WARNING: Button text color is hard-coded to white, so it's recommended to use a
+#   dark or colored background here!
+Accent                  : 4caf50
+AccentHovered           : 9ccc65
+AccentPressed           : 43a047
+
+# Used for:
+#   - Slider fill (slider progress)
+#   - Switch fill (activated)
+# NOTE: "TertiaryHovered" on "TertiaryPressed" never used
+AccentModified          : 2e7d32
+AccentModifiedHovered   : 60ad5e
+AccentModifiedPressed   : 005005
+
+
+# Used for:
+#   - Icons
+Graphic_Primary         : ffffff     # color tool, reset, main menu icons, ...
+Graphic_Secondary       : 484848     # Dropdown arrow
+
+# Used for:
+#   - Most UI text on background
+Text_Primary            : e0e0e0
+Text_Secondary          : 000000
+
+# Used for:
+#   - Text fields
+# WARNING: Dropdown selected text color is hard-coded to a dark gray, so it's 
+#   recommended to use a light background here!
+InputField              : 607d8b
+InputFieldHovered       : 8eacbb
+InputFieldPressed       : 34515e
+InputFieldText          : 000000
