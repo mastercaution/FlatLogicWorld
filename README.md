@@ -31,6 +31,7 @@ Mod support in Logic World is not finished yet but the mod directory can already
 ## Known Issues
 - __Scrollbars are invisible in component selection menu.__ The scroll bar in the component selection menu is assigned to the color `Primary` and the scrollbar background to `Tertiary`. Both colors are equal in the _Flat Logic World_ themes giving them the flat and clean look. Hovering over the scrollbar will reveal it. This only effects the scrollbars in the component selection menu, other scrollbars use other colors that work well.
 - __Text in dropdowns are gray and not black.__ The text color of the selected item in a collapsed dropdown element is hard-coded to that gray, so it cannot be customized by the color palette. That's why the dropdowns are that bright, making them darker would make the text very hard to read.
+- __White text on light gray background. (Light themes)__ Due to some hard-coded colors, some text stays white on a light background. It appears on several backgrounds and making all these backgrounds dark will result in a dark theme again. Maybe the texts will use custom colors in the future.
 
 ## Pictures
 <p align="center">
