@@ -9,8 +9,8 @@
 # WARNING: On hovered settings boxes, "Primary" is mixing with "Accent" (slightly
 #   transparent "Accent" is added)!
 Primary                 : 263238
-PrimaryHovered          : 4f5b62
-PrimaryPressed          : 000a12
+PrimaryHovered          : 37474f
+PrimaryPressed          : 212121
 
 # Used for:
 #   - Panels
@@ -18,8 +18,8 @@ PrimaryPressed          : 000a12
 #   - Scroll bar (in settings menu)
 # NOTE: "SecondaryHovered" and "SecondaryPressed" only used on active tab item header
 Secondary               : 212121
-SecondaryHovered        : 484848
-SecondaryPressed        : 181818
+SecondaryHovered        : 3a3a3a
+SecondaryPressed        : 1b1b1b
 
 # Used for:
 #   - Borders
@@ -29,8 +29,8 @@ SecondaryPressed        : 181818
 #   - Hotbar item border (not selected)
 # NOTE: "TertiaryHovered" on "TertiaryPressed" never used
 Tertiary                : 263238
-TertiaryHovered         : 4f5b62
-TertiaryPressed         : 000a12
+TertiaryHovered         : 37474f
+TertiaryPressed         : 212121
 
 # Used for:
 #   - Deactivated switch background and handle
