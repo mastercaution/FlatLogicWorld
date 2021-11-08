@@ -2,7 +2,7 @@
   <a href="https://github.com/mastercaution/FlatLogicWorld/releases">
     <img alt="GitHub release  (latest by date)" src="https://img.shields.io/github/v/release/mastercaution/FlatLogicWorld?logo=github&style=flat-square" /></a> 
   <a href="https://logicworld.net/" >
-    <img alt="Logic World Version" src="https://img.shields.io/badge/Logic%20World-v0.90-informational?style=flat-square" /></a>
+    <img alt="Logic World Version" src="https://img.shields.io/badge/Logic%20World-v0.90.1-informational?style=flat-square" /></a>
 </p>
 
 
@@ -41,6 +41,13 @@ Mod support in Logic World is not finished yet but the mod directory can already
   <img alt="Component Selection Presentation" src="https://user-images.githubusercontent.com/16451370/138568439-1233439a-7b93-4853-a55a-af2e60d1d299.gif" />
 </p>
 
+## "Build" it Yourself
+You can create the release ZIP file yourself by simply executing the `release.sh` script (Linux only, needs `sed` and `zip` (default on most distros)):
+```
+utils/release.sh
+```
+This script will automatically cut out all unnecessary comments and create a ZIP file. The content can be placed directly into the mod folder of Logic World. 
+> :warning: The version number is taken from the latest git tag.
 
 ## Acknowledgements
 Huge thanks to Mouse Hat Games (especially Jimmy) for the great game and the modularity making it super easy to create custom themes and other mods!
